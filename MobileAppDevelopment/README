@@ -1,1 +1,12 @@
 Mobile App Development course - Assigments and Apps
+
+All apps are done in Android Studio using Java language
+
+1. QuizGame - Simple trivia game. There is a small pool of questions hard-coded in some class. Program takes the random question and shows it to the player.
+              Player then tries to answer the question and if he guesses correctly, next random question is displayed. If he guesses incorrectly, that answer is 
+              disabled and he can guess again.
+              
+2. CurrencyConverter -  A little bit more advanced app for currency conversion. The app has a pool of currencies (which can be updated from web) and user chooses
+                        currencies from/to which he wants to convert. Types in the value and conversion is done. He can share that result via many possible ways
+                        (email, Facebook, WhatsApp etc). Capital city of all currency countries can be shown on the map (Intent). There is also an option to refresh
+                        currency rates from the web (.xml file)
