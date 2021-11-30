@@ -1,1 +1,18 @@
-Programmin 3 course - Assigments
+Programming 3 course - Assigments
+
+All assigments are made in C++ (CodeBlocks and Visual Studio 2019)
+
+Assigment 1 - Program enrypts/decrypts a message using Vigenère squar. For encryption, the password is aligned with the text. Encryption is done character
+              by character using the Vigenère square. The column is specified by the character from the original text and the row is specified by the corresponding character
+              from the password.
+              
+Assigment 2 - I created a custom Doubly Linked List with pointers that has additional methods like 
+              put() - Inserts a new element at the beginning of the list
+              get() - Removes an item (if possible) from the end of the list and passes it through the reference
+              isEmpty() - Checks if the list is empty
+              initializeDList() - Initialization of an empty list
+
+Assigment 3 - Program that uses .txt files as a database. Program has 2 classes Article and Stock with some attributes.
+              Information is read from the txt file and inserted into the objects, some calculations are performed and then output information is
+              printed out in another txt file
+              
