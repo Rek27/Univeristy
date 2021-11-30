@@ -1,6 +1,6 @@
 Programming 3 course - Assigments
 
-All assigments are made in C++ (CodeBlocks and Visual Studio 2019)
+All assigments are made in C++ (CodeBlocks and Visual Studio 2019) and have proper documentation using doxygen.
 
 Assigment 1 - Program enrypts/decrypts a message using Vigenère squar. For encryption, the password is aligned with the text. Encryption is done character
               by character using the Vigenère square. The column is specified by the character from the original text and the row is specified by the corresponding character
