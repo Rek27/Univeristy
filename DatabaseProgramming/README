@@ -1,3 +1,8 @@
-Database Programming course - Assigments and Apps
+Database Programming course - Assigments
 
-Assigment 1 - SQL querries
+All assigments are made in MySQL, Java (Eclipse) using JPA, PHP
+
+
+Assigment 1 - Working with MySQL, creating stored procedures, events, functions etc
+
+Assigment 2 - Java Presistence, making classes and mapping them to the database, implementing relationships using JPA, creating namedQuerry-es and using them.
