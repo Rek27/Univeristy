@@ -1,8 +1,11 @@
+About the course:
+- MySQL: CRUD, Stored procedures, Functions, Events, Triggers and implementing them on in-real-life databases
+- Java: Java Persistence, mapping of the class to the tables including relationships, implementing CRUD using namedQuerries
+- PHP: Creating simple forms in HTML, implementing CRUD using PHP scripts
+- MongoDB and CouchDB: implementing CRUD using document-based database (pros/cons)
+
 Database Programming course - Assigments
 
-All assigments are made in MySQL, Java (Eclipse) using JPA, PHP
-
-
 Assigment 1 - Working with MySQL, creating stored procedures, events, functions etc
-
 Assigment 2 - Java Presistence, making classes and mapping them to the database, implementing relationships using JPA, creating namedQuerry-es and using them.
+Assigment 3 - Making a form and the search of MySQL database using PHP depending on the input 
