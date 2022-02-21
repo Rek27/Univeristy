@@ -1,3 +1,6 @@
-Database Mandatory Assignment
+About the course:
+I learned basics of the SQL Databases (CRUD) and implementing it in Java and MySQL.
 
-Making a Java program that connects to the database and is able to execute different querries (preparedStatement-s)
+
+Database Mandatory Assignment:
+Making a Java program that connects to the database in MySQL and is able to execute different querries (preparedStatement-s)
